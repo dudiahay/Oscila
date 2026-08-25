@@ -25,7 +25,8 @@ Panduan ini disediakan agar panitia dapat menjalankan aplikasi secara lokal meng
 \- Buka terminal pada komputer Anda.
 
 \- Lakukan clone repositori: git clone https://github.com/dudiahay/Oscila
-- Masuk ke direktori: cd Oscila
+
+\- Masuk ke direktori: cd Oscila
 
 \- Bangun dan jalankan kontainer: docker-compose up -d --build
 
